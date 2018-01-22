@@ -18,6 +18,5 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ALPNP/express-api/issues"
-  },
-  "homepage": "https://github.com/ALPNP/express-api#readme"
+  }
 }
